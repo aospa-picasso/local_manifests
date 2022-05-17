@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="vendor/aospa" name="aospa-picasso/android_vendor_aospa" remote="aospa" >
+    <linkfile src="build.sh" dest="rom-build.sh" />
+  </project>
+    
+</manifest>

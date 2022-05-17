@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You should probably let Roomservice deal with this unless you know what you are doing. -->
+<manifest>
+  <project path="device/xiaomi/picasso" name="aospa-picasso/android_device_xiaomi_picasso" remote="aospa" revision="sapphire" />
+  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="aospa-picasso/hardware_qcom-caf_sm8250_audio" remote="aospa" revision="sapphire" />
+  <project path="hardware/qcom/display" name="aospa-picasso/hardware_qcom-caf_sm8250_display" remote="aospa" revision="sapphire" />
+  <project path="hardware/qcom/media" name="aospa-picasso/hardware_qcom-caf_sm8250_media" remote="aospa" revision="sapphire" />
+  <project path="kernel/xiaomi/sm7250" name="aospa-picasso/android_kernel_xiaomi_sm7250" remote="aospa" revision="12.0-main" />
+  <project path="vendor/xiaomi/picasso" name="aospa-picasso/android_vendor_xiaomi_picasso" remote="aospa" revision="sapphire" />
+  <project path="vendor/xiaomi/picasso-firmware" name="EndCredits/android_vendor_xiaomi_picasso-firmware" remote="gitlab" revision="stable" />
+  <project path="hardware/xiaomi" name="aospa-picasso/android_hardware_xiaomi" remote="aospa" revision="sapphire" />
+</manifest>
